@@ -1,0 +1,7 @@
+build
+.gradle
+.idea
+*.iml
+kotlin-posts-1.csv
+kotlin-posts-2.csv
+kotlin-posts-3.csv
