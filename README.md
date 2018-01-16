@@ -10,7 +10,16 @@
 - **[kotlin-posts-6.csv](/kotlin-posts-6.csv) - Apply Porter Stemming Algorithm - [Porter Stemming Repo](https://github.com/victorlaerte/java-porter-stemming) - DONE**
 
 ## Second step
-- **[output.mallet](/output.mallet)** - File generated with following command: ```mallet import-dir --input mallet-input --output output.mallet --keep-sequence --remove-stopwords```
+- **[output.mallet](/output.mallet)** - File generated with following command: 
+```
+mallet import-dir --input mallet-input --output output.mallet --keep-sequence --remove-stopwords
+```
 - **[mallet-output](/mallet-output)** - In this directory you can find two test rounds. The first one was done with the [output.mallet](/output.mallet) generated with [kotlin-posts-6.csv](/kotlin-posts-6.csv). The seconde one was generated with [kotlin-posts-5.csv](/kotlin-posts-5.csv).
-- **[test-1](/mallet-output/test-1)** - In this directory you can find tests for i-topics respectively generated with following command: ```mallet train-topics --input output.mallet --num-topics i --optimize-interval 20 --output-state topic-state-i.gz --output-topic-keys output-keys-i-topics.txt --output-doc-topics output-composition-i-topics.txt```
-- **[test-2](/mallet-output/test-2)** - In this directory you can find tests for i-topics respectively generated with following command: ```mallet train-topics --input output.mallet --num-topics i --optimize-interval 20 --output-state topic-state-i.gz --output-topic-keys output-keys-i-topics.txt --output-doc-topics output-composition-i-topics.txt```
+- **[test-1](/mallet-output/test-1)** - In this directory you can find tests for i-topics respectively generated with following command:
+```
+mallet train-topics --input output.mallet --num-topics i --optimize-interval 20 --output-state topic-state-i.gz --output-topic-keys output-keys-i-topics.txt --output-doc-topics output-composition-i-topics.txt
+```
+- **[test-2](/mallet-output/test-2)** - In this directory you can find tests for i-topics respectively generated with following command:
+```
+mallet train-topics --input output.mallet --num-topics i --optimize-interval 20 --output-state topic-state-i.gz --output-topic-keys output-keys-i-topics.txt --output-doc-topics output-composition-i-topics.txt
+```
