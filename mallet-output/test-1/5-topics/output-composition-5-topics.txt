@@ -1,0 +1,1 @@
+0	file:/Users/victoroliveira/Documents/workspace/kotlin-stackoverflow-data-analysis/mallet-input/kotlin-posts-6.txt	0.6775526876546384	0.01843902459401384	0.26984011219921383	0.01643489439368379	0.017733281158450073

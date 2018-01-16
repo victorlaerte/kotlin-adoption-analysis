@@ -1,0 +1,15 @@
+0	22.36596	close okio isn work simplify realcall cpp virtual timer suddenly accessors packages ljava applicationid communicate accessing mysql multidex asynchronous desc 
+1	424.83197	android class object view don list spring find intellij extension found time solution tests annotation anko pass maven model unit 
+2	19.18449	occurred vpn pageradapter extras inline specific analyzeandreport install ssh bold startrunnerwithargs achieved edge mix jar getmapasync chart datacollector injectorimpl transition 
+3	20.02687	nourplayerarch lollipop upgrading theory correct editable kodein optimize removes fab snap transport requestcode ast flags situations comment composite liftingboard inmaa 
+4	18.86557	receiver magic comparing ant packages dots adapter memento usersensor migrating closed instructions processor closure implements jvm analysisresult overlay hangs authenticatorbase 
+5	373.74934	internal version call doesn jetbrains constructor works invoke simple case inside question defined google field map types junit expected syntax 
+6	20.10016	password appcompatdelegateimplv kotlinpoet lockbasedstoragemanager positive translate instrumentation treat artifact evaluating versionpropsfilei javaversion versioncode extention mode jmockit window sura classreader defineclass 
+7	20.10795	programmatically gms examples recent codebase select validator slf myclass unsure modifying viewmodelprovider jack considered resolves comparator outer lastname responding appbarlayout 
+8	19.74232	margin randommmm framelayout navigationview serialized detected natives reuse urlclassloader presence inflated xxx kotlins subclassing additional aop managed complains parameters mergesubscriber 
+9	132.25508	feature plugins clean due happening success codes suggestions delegatingmethodaccessorimpl performance xmlns thrown mvc actual pom effect pure background widget started 
+10	20.74462	skipemptysourcefilestaskexecuter expressioncodegen hours identical front alternative lifecyclemodulebuilder nullinternal migrate video alert sort expensive wont samples indefinitely futuretask effects hand generatedebugandroidtestsources 
+11	19.73852	koltin gradleprojectresolver immutable moved columns candidates opinion codegen appchamp fooddatabase catchexceptiontaskexecuter intelij stackoverflowerror inf typically guessing exceptiontype keys apparent androidstudio 
+12	26.35322	closing graphview circle jdom achieved year overflow mix aware wcy processed switching instantiation topic introduced stable dispatch movetostate compatible integer 
+13	20.61302	matrix linearlayoutmanager parsing enforce mavencentral connect displaying correctly urn greendao globally exposed problems rendering androidtest snackbar bindings blah watch jvmpackagescope 
+14	1,116.56428	kotlin java code error org gradle function method project type app build data run file problem test work classes compile 

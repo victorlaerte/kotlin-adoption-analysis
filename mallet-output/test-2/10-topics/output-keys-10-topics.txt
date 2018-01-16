@@ -1,0 +1,10 @@
+0	19.24557	int filterchainproxy myapplication nourplayerarch bottomnavigationview sourcecompatibility creator backstackrecord guava wsfilter reflectivecallable comparing impossible performing server limited vec samsung host row 
+1	605.11814	java kotlin class error org function method type build run test internal classes version view plugin works compiler spring main 
+2	18.88615	convention handled restarted intrinsics comparator clash expertsaraqeb tat overriden synchronized starts skip invariant font introduced bad statically pojos isqio swagger 
+3	20.24366	find prompt applicable studying someactivity styles bad gettypeinfo vertxhttphandler autowire hours pause groupid incompatible getvalue extended jjoe dexexception columns ebean 
+4	19.89907	license shaded graph remain photo didn turns queue migration buildscript lead greater defineclass identifier render scala lazyannotationdescriptor onsubscribelift card assertion 
+5	19.25359	dbflow concise generics pool squareup usual offline dto uri publish persistence urlfetchservicestreamhandler jps noarg snap injectprocessingstep appearing decide slack sake 
+6	640.95836	kotlin android code gradle project app data file work problem object compile create don make jetbrains doesn list null string 
+7	20.64955	node depends normalizingjavacompiler accessors couldn parser ensure ide readable oauth lazily iterator startup abstracthandlermethodadapter parsing wasn choice analysis translationx straightforward 
+8	19.13954	policy rxbinding artifact audio qualified dependent years variations rxkotlin arg surface extremely black menuitem retrieving infer analyzeandreport delegate external shape 
+9	38.99119	infer missed lockbasedstoragemanager shared location overloaded causing aar abstractbeanfactory scene jetty xsi res capture lcom pushing bin yesterday linenumber jmockit 

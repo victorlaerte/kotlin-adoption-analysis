@@ -1,0 +1,5 @@
+0	270.2603	code function build internal view make studio property parameter find working version question found properties case fun inside val edit 
+1	22.2115	classcastexception processdatabinding receive storage enums moved conflict logback success date springapplication validatingtaskexecuter latest swagger startactivity ubuntu darkpaladin infinite workarounds password 
+2	541.39743	kotlin java android class error org gradle method project type app data file problem run test classes call compile object 
+3	22.7656	glvertex call onclicklistener reactivestreams clause instant linux initialised incremental mojoexecutor unexpected javadoc straight agpbi company transform silly annotating multi gradle 
+4	22.66063	calls completion parse bounds methodrunner servletinvocablehandlermethod entities recursion stopped chance modifiers blue mvp tables compose arrayof dataclass conditions initializer understood 
