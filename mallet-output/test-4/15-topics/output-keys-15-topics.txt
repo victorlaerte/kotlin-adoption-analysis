@@ -1,0 +1,15 @@
+0	0.04705	test tests dagger unit run inject version mockito junit class artifactid mock groupid dependency testing step fails component bigdecimal module 
+1	0.00649	org java gradle internal execute execution tasks kotlin api jetbrains invoke executeactionstaskexecuter run android defaultgradlelauncher sun reflect cli defaultbuildexecuter launcher 
+2	0.43693	kotlin code java error android work find found question don problem doesn works method issue make solution language line convert 
+3	0.23863	class kotlin object java constructor property classes interface properties access data create method field instance methods annotation setter make static 
+4	0.0141	android java app view activitythread main layout support lang content tokenhelper wrap widget coroutine method zygoteinit internal bar viewgroup linearlayout 
+5	0.01466	java spring org jar release springframework boot web core servlet server apache tomcat method jersey catalina embed info beans security 
+6	0.01022	android org kotlin compile java plugin app version google jetbrains support maven jar apply abstractchannelhandlercontext gradle netty channel dagger vertx 
+7	0.09785	activity view android fragment layout button anko code xml item set adapter app click image custom recyclerview change main text 
+8	0.18295	kotlin project gradle android build file error studio plugin run app class files version intellij classes module java library idea 
+9	0.0957	rxjava observable api call data thread response request retrofit service user time code app return server android method make async 
+10	0.10746	kotlin list string array operator map fun collection defined element int loop function convert elements java values output sequence number 
+11	0.0488	data database spring model firebase realm room query idea lib entity null jackson media ali sql table hibernate intelji annotations 
+12	0.25367	function kotlin type method error null parameter code call extension generic functions return java compiler class lambda variable types nullable 
+13	0.00421	java org internal jetbrains kotlin junit lang invoke reflect jet resolve expressioncodegen sun run runners util powermockjunit method impl jvm 
+14	0.01071	val fun var private android override context int return string null event super bundle camera gms google class boolean false 

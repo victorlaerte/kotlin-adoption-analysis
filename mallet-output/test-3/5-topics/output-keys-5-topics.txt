@@ -1,0 +1,5 @@
+0	0.07904	android view activ layout fragment app fun button val code xml anko support item event click content set widget imag 
+1	0.56142	kotlin class function code java type method wai work call follow error object creat gener properti exampl valu compil return 
+2	0.01043	java org gradl execut intern kotlin jetbrain task android app api lang invok run reflect activitythread junit tool compil project 
+3	0.03407	java spring org jar releas web boot server springframework core request servic user respons servlet http method api apach tokenhelp 
+4	0.17857	kotlin android project file gradl error build compil test class run java version work plugin studio code app modul depend 

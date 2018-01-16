@@ -1,0 +1,15 @@
+0	0.01234	android java app view layout activitythread support intern lang widget wrap content main viewgroup zygoteinit width linearlayout handler method height 
+1	0.01656	kotlin android version compil plugin jar org gradl app build support depend jetbrain appli lib artifactid groupid stdlib home kapt 
+2	0.08879	kotlin string list arrai map oper collect element valu fun convert wai java defin iter int plu function creat byte 
+3	0.06014	test spring inject dagger run class boot unit mock annot work depend mockito applic repositori problem junit compon modul user 
+4	0.06344	activ view android fragment val button layout item fun adapt click anko show event xml privat app overrid set code 
+5	0.17396	class kotlin properti constructor object data field initi java annot creat declar access valu setter deleg wai implement instanc getter 
+6	0.09995	data call observ rxjava api request return android work databas code respons user thread firebas log app creat retrofit method 
+7	0.50376	kotlin code wai work exampl make question someth java differ time don chang write solut result follow find problem answer 
+8	0.007	org java gradl execut jetbrain intern kotlin task api tool invok compil lang run executeactionstaskexecut resolv android project defaultgradlelaunch jet 
+9	0.00552	java org releas jar springframework spring core junit intern apach method web reflect servlet invok sun tomcat server run jersei 
+10	0.25741	kotlin android project file error gradl build java class studio run work compil code plugin app intellij version librari modul 
+11	0.18206	type kotlin error code compil gener null follow valu return java paramet nullabl cast variabl work check problem method class 
+12	0.00978	java channel tokenhelp vertx abstractchannelhandlercontext foo netti bar helper companion impl getinst lang http null handler core web thread nio 
+13	0.03067	coroutin main filter anko tornadofx javafx prime set layout button send html view row tabl calcul valu thread xml game 
+14	0.2136	function kotlin method call class java extens interfac implement object code refer paramet lambda wai pass type creat exampl argument 
