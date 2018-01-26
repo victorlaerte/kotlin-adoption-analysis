@@ -1,0 +1,11 @@
+Topics	Weight	Words
+0	0.00733	java org gradl execut intern jetbrain kotlin task api invok run lang reflect tool junit compil sun executeactionstaskexecut resolv project 
+1	0.24068	kotlin android project file error gradl build test run java class code work compil studio app version plugin intellij follow 
+2	0.0189	kotlin android version compil plugin org jar app gradl dagger build depend annot support jetbrain kapt googl appli lib file 
+3	0.01639	android java view app layout activitythread support intern widget lang content tokenhelp wrap main method viewgroup bar width companion foo 
+4	0.25265	class kotlin java method properti object constructor interfac implement call creat wai access field code instanc annot data initi function 
+5	0.38853	kotlin function type code wai java return work method error follow call gener exampl valu string list compil paramet null 
+6	0.00749	java org spring jar releas springframework core web servlet boot apach tomcat method server bean jersei lang invok catalina emb 
+7	0.01455	fun val kotlin var privat string int plu overrid oper defin return context bigdecim step element valu byte arrai permiss 
+8	0.07336	data spring databas request model respons api firebas queri user work retrofit server code json annot room web test class 
+9	0.1232	activ code call view android work fragment observ item anko button problem chang coroutin main thread click set rxjava creat 

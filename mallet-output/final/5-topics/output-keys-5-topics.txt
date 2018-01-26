@@ -1,0 +1,5 @@
+0	0.15021	kotlin android project file gradl build error compil java class run test app version plugin studio work code modul depend 
+1	0.01076	java org gradl execut intern jetbrain kotlin task api lang android invok run reflect sun activitythread method resolv tool junit 
+2	0.01702	android java view layout jar releas spring val support fun springframework org app main web var widget core privat content 
+3	0.16851	code work data android call activ kotlin problem fragment creat view make spring item method app chang rxjava return observ 
+4	0.43227	kotlin class function java type code method wai error work call follow gener object properti compil valu implement paramet exampl 

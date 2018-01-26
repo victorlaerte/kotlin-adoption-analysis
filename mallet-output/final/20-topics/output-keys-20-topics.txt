@@ -1,0 +1,21 @@
+Topics	Weight	Words
+0	0.03152	request respons filter client coroutin server send main api user media prime url retrofit ali channel http intelji rest lib 
+1	0.06056	call observ rxjava thread return event method run subscrib oper coroutin result async data complet size stream emit start callback 
+2	0.09922	wai question answer object function exampl express method pattern builder level statement option write top local context check html note 
+3	0.03735	test run unit junit mock mockito fail exampl espresso spek class coverag modul net report final featur pass librari xmln 
+4	0.01086	val fun privat var overrid int return context event step super bundl bigdecim els null string true camera class intent 
+5	0.08803	android layout view activ fragment button xml anko item code adapt click content imag set chang text work show app 
+6	0.00746	java android view app activitythread support intern lang widget zygoteinit method viewgroup main apk exampl handler lib activ data linearlayout 
+7	0.10757	kotlin project file gradl build plugin run version depend intellij modul compil configur maven librari idea main script jar sourc 
+8	0.16114	class kotlin constructor interfac object implement method java creat access instanc companion data extend static call overrid declar abstract inherit 
+9	0.32948	kotlin java error code class compil follow convert work refer problem method tri fine project doesn sai give throw unresolv 
+10	0.23738	function type kotlin gener paramet call method extens return compil pass lambda argument follow valu code work exampl error possibl 
+11	0.01668	android compil kotlin app gradl build jar version kapt org plugin support proguard appli file dagger annot true home googl 
+12	0.00497	java org jetbrain kotlin intern resolv invok lang reflect jvm impl jet abstractchannelhandlercontext junit sun expressioncodegen core netti runner compileserviceimpl 
+13	0.11034	properti null valu variabl initi field kotlin setter wai set nullabl getter call check declar custom make chang assign lazi 
+14	0.00579	java org releas jar spring springframework core web servlet boot method tomcat apach server jersei invok catalina info emb bean 
+15	0.11178	kotlin list string arrai map valu oper collect element wai java defin fun int convert plu iter return loop creat 
+16	0.00727	java org gradl execut intern task api tool jetbrain run kotlin executeactionstaskexecut compil defaultgradlelaunch project android defaultbuildexecut databind defaulttaskgraphexecut taskgraph 
+17	0.52464	kotlin work code wai someth make exampl don java function tri follow time solut differ howev implement find creat method 
+18	0.1202	android studio app build error kotlin project gradl file work version run problem googl librari log applic fail updat tri 
+19	0.09374	data annot class spring databas inject model dagger work object queri creat realm room boot applic firebas entiti compon gener 
