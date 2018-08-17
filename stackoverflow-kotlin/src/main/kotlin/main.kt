@@ -4,11 +4,11 @@ import java.nio.file.Files
 import java.nio.file.Paths
 
 fun main(args: Array<String>) {
-//    removeHtml()
-//    removeURLs()
-//	  removePunctuation()
-//	  removeStopWordsAndOneLetterWords()
-//	  stem()
+    removeHtml()
+    removeURLs()
+	removePunctuation()
+	removeStopWordsAndOneLetterWords()
+	stem()
 }
 
 fun getReadFile(fileName: String): File = File(fileName)
@@ -47,7 +47,7 @@ fun removeURLs() {
 			"((https?|ftp|gopher|telnet|file|Unsure|http):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?+-=\\\\.&]*)")
 
 		lines.forEach {
-			var text = it.replace(regex, "")
+			val text = it.replace(regex, "")
 			newFile.appendText("$text\n")
 		}
 	}
@@ -61,7 +61,7 @@ fun removePunctuation() {
 		val newFile = getOrCreateWriteFile("kotlin-posts-4.csv")
 		val regex = Regex("\\p{P}")
 		lines.forEach {
-			var text = it.replace(regex, " ")
+			val text = it.replace(regex, " ")
 			newFile.appendText("$text\n")
 		}
 	}
@@ -97,14 +97,14 @@ fun removeStopWordsAndOneLetterWords() {
 			"won't", "would", "wouldn't", "you", "you'd", "you'll", "you're",
 			"you've", "your", "yours", "yourself", "yourselves")
 
-		lines.forEach {
-			var text = it.toLowerCase()
-			var words = text.split(" ").toMutableList()
-			var newLine = StringBuffer()
+		lines.forEach { line ->
+			val text = line.toLowerCase()
+			val words = text.split(" ").toMutableList()
+			val newLine = StringBuffer()
 
-			words.forEach {
-				if (!stopWords.contains(it) && it.length > 1) {
-					newLine.append(it)
+			words.forEach { word ->
+				if (!stopWords.contains(word) && word.length > 1) {
+					newLine.append(word)
 					newLine.append(" ")
 				}
 			}
@@ -120,6 +120,6 @@ fun stem() {
 	if (readFile.exists()) {
 
 		val output = getOrCreateWriteFile("kotlin-posts-6.csv")
-//		Stemmer.stem(readFile.absolutePath, output.absolutePath)
+		Stemmer.stem(readFile.absolutePath, output.absolutePath)
 	}
 }
