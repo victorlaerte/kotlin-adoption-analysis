@@ -1,5 +1,0 @@
-0	0.42766	kotlin class code function java type method error object call data list create work property constructor interface parameter null string 
-1	0.10334	android view activity layout app code data fragment java val button anko xml support rxjava fun content user event null 
-2	0.00994	java org gradle kotlin jetbrains internal android execution execute tasks api app compile lang project invoke version build plugin jar 
-3	0.2026	kotlin android project error gradle java file build code run test studio class version app plugin intellij classes files problem 
-4	0.02167	java org spring release jar internal core method springframework web boot activitythread main lang reflect invoke junit run server servlet 

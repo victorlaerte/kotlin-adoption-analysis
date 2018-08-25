@@ -1,5 +1,6 @@
 import org.jsoup.Jsoup
 import java.io.File
+import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.nio.file.Paths
 
@@ -9,6 +10,7 @@ fun main(args: Array<String>) {
 	removePunctuation()
 	removeStopWordsAndOneLetterWords()
 	stem()
+	nameAndLabel()
 }
 
 fun getReadFile(fileName: String): File = File(fileName)
@@ -28,10 +30,10 @@ fun removeHtml() {
 		val newFile = getOrCreateWriteFile("kotlin-posts-2.csv")
 
 		lines.forEach {
-			var text = Jsoup.parse(it).text()
+			val text = Jsoup.parse(it).text()
 
-			text = text.replace("\n", "")
-			newFile.appendText("$text\n")
+			val newText = text.replace("\n", "").replace("\r", "")
+			newFile.appendText("$newText\n")
 		}
 	}
 }
@@ -121,5 +123,22 @@ fun stem() {
 
 		val output = getOrCreateWriteFile("kotlin-posts-6.csv")
 		Stemmer.stem(readFile.absolutePath, output.absolutePath)
+	}
+}
+
+fun nameAndLabel() {
+	val readFile = getReadFile("kotlin-posts-6.csv")
+
+	if (readFile.exists()) {
+		val lines = Files.lines(Paths.get(readFile.toURI()), StandardCharsets.ISO_8859_1)
+		val newFile = getOrCreateWriteFile("kotlin-posts-final.txt")
+
+		var i = 0
+		lines.forEach {
+			val myString = it.prependIndent("q$i Question$i ").toByteArray(Charsets.ISO_8859_1)
+			val text = String(myString, Charsets.UTF_8)
+			newFile.appendText("$text\n")
+			i++
+		}
 	}
 }
