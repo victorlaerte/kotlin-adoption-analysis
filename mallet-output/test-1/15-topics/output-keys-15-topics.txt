@@ -1,3 +1,4 @@
+topic	weight	words
 0	0.20305	kotlin function error type code valu null return method call paramet variabl class string pass follow java extens refer compil 
 1	0.05982	fragment activ navig tab main app intent code android back ingredi call layout mainact click drawer content menu viewpag uri 
 2	0.02349	val fun string var overrid int null class return date context privat text mode valu cursor add respons savedinstancest super 

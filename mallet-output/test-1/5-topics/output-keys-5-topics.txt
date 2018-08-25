@@ -1,3 +1,4 @@
+topic	weight	words
 0	0.15557	kotlin android gradl project error build studio file java app run version modul test compil librari work class code plugin 
 1	0.17303	call code app work android data api user return observ request time file method servic problem firebas rxjava function wai 
 2	0.28738	kotlin class code error object method java function type android work data wai creat call valu follow gener implement convert 

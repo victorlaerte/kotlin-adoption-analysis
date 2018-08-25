@@ -1,3 +1,4 @@
+topic	weight	words
 0	0.05342	database firebase room user data query table login dao entity uri android insert list values sqlite content ingredient return empty 
 1	0.02008	val fun override var string int null context android class return text private true super savedinstancestate mode oncreate intent tostring 
 2	0.10318	button view layout xml anko click android text edittext custom code set activity dialog textview views kotlin show toast binding 

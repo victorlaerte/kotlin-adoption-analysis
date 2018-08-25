@@ -1,3 +1,4 @@
+topic	weight	words
 0	0.08972	activ fragment click button main navig mainact menu tab xml back app code call chang intent show set creat add 
 1	0.39811	wai android work kotlin question make time exampl code don creat differ someth tri problem solut case find function follow 
 2	0.06165	databas firebas room data queri user tabl insert entiti valu firestor creat dao document login persist store field list updat 

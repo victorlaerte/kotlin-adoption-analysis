@@ -1,3 +1,4 @@
+topic	weight	words
 0	0.10182	data list databas object class json room model firebas queri valu string arrai field user realm gson pars return creat 
 1	0.01996	java android val fun app view activitythread overrid string var null int lang ingredi return uri context main method zygoteinit 
 2	0.37268	kotlin code android work wai app time make function problem don tri someth question exampl string doesn solut find java 
