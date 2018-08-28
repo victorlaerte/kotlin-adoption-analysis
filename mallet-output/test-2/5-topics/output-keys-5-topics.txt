@@ -1,6 +1,0 @@
-topic	weight	words
-0	0.0223	java android val fun view null app string activitythread var override class method intent return int lang context uri main 
-1	0.17696	activity fragment view code android layout button xml kotlin recyclerview item set adapter app click image problem text change add 
-2	0.18238	code data app android call api user time rxjava firebase request service database retrofit file problem method kotlin working work 
-3	0.15199	kotlin android gradle project build studio error java app file version module run library code plugin org classes google test 
-4	0.28537	kotlin class code error java android method object type function data test null problem create string activity dagger call work 

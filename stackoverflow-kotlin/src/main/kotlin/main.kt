@@ -5,8 +5,8 @@ import java.nio.file.Files
 import java.nio.file.Paths
 
 fun main(args: Array<String>) {
-    removeHtml()
-    removeURLs()
+	removeHtml()
+	removeURLs()
 	removePunctuation()
 	removeStopWordsAndOneLetterWords()
 	stem()
@@ -127,7 +127,7 @@ fun stem() {
 }
 
 fun nameAndLabel() {
-	val readFile = getReadFile("kotlin-posts-6.csv")
+	val readFile = getReadFile("kotlin-posts-5.csv")
 
 	if (readFile.exists()) {
 		val lines = Files.lines(Paths.get(readFile.toURI()), StandardCharsets.ISO_8859_1)

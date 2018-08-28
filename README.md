@@ -45,18 +45,18 @@ We have chosen 15 topics based on some [literature review](http://psiexp.ss.uci.
 
 | Topics | Weight | Words |
 |---|---|---|
-| 12 | 0.44832 | work code android wai time make app kotlin problem tri question don someth doesn follow solut exampl chang find issu |
-| 0 | 0.20305 | kotlin function error type code valu null return method call paramet variabl class string pass follow java extens refer compil |
-| 9 | 0.1766 | android kotlin build project gradl error studio file app run version modul test librari compil plugin fail follow work updat |
-| 11 | 0.17069 | kotlin java android code class convert studio file error work creat project find write languag activ import librari wai develop |
-| 4 | 0.12621 | class kotlin dagger object method inject error constructor implement creat interfac gener activ provid compon instanc properti parcel modul initi |
-| 10 | 0.12181 | button click activ text chang show xml set edittext anko code select dialog item work color android user layout view |
-| 8 | 0.10953 | data list object databas class json room model queri arrai string realm gson valu field pars firebas creat retrofit return |
-| 7 | 0.10766 | call test observ method rxjava data return retrofit api request thread run coroutin callback result function mock execut code unit |
-| 6 | 0.10342 | app android code servic devic user work connect firebas log googl applic send call activ api messag login run notif |
-| 14 | 0.09193 | view recyclerview adapt layout item xml list android anim custom scroll bind code set recycl data height listview insid implement |
-| 1 | 0.05982 | fragment activ navig tab main app intent code android back ingredi call layout mainact click drawer content menu viewpag uri |
-| 5 | 0.05298 | file imag load android code save app url camera open download record creat folder intent glide plai content bitmap upload |
-| 2 | 0.02349 | val fun string var overrid int null class return date context privat text mode valu cursor add respons savedinstancest super |
-| 13 | 0.01191 | kotlin android googl org support compil jetbrain dagger version alpha room persist arch stdlib annot implement guava common jre app |
-| 3 | 0.00786 | java android intern org activitythread execut gradl app main lang experi zygoteinit system task method run handler metavers api reflect |
+| 1 | 0.46881 | work code android kotlin wai make don question tri someth time exampl problem follow app creat solut doesn find issu |
+| 9 | 0.20464 | android kotlin build project gradl error studio file version app librari modul compil run plugin follow fail class work updat |
+| 4 | 0.1689 | kotlin code java android error convert studio class file app work string lang project languag method exampl follow activ line |
+| 14 | 0.15408 | class kotlin type error method gener paramet object implement creat interfac constructor java pass follow call function code problem parcel |
+| 11 | 0.15254 | kotlin function valu null properti variabl class call method return object access wai code extens initi field type declar android |
+| 13 | 0.10564 | fragment activ view layout xml anko chang main work navig set bind android tab custom menu bar code insid mainact |
+| 8 | 0.10203 | activ button click user app code edittext show text dialog set press back login android firebas open start work select |
+| 3 | 0.09935 | data list json object string arrai valu class realm pars firebas gson kotlin field model return add kei arraylist databas |
+| 10 | 0.09868 | view item recyclerview imag adapt list anim scroll load chang set layout color code click show work select screen problem |
+| 0 | 0.09223 | call thread method run function time coroutin log code event work callback activ block execut start android insid problem complet |
+| 2 | 0.08641 | app file android devic code work servic imag connect googl locat permiss applic notif send plai creat receiv save api |
+| 7 | 0.08431 | data call observ request api rxjava retrofit return respons method error model server fetch subscrib result updat servic local viewmodel |
+| 12 | 0.03947 | dagger inject modul provid compon viewmodel depend activ class error present implement applic instanc app annot architectur work problem mvp |
+| 6 | 0.0329 | test run unit mock class mockito android method espresso fail instrument present coverag function junit follow simpl code write androidtest |
+| 5 | 0.02865 | room databas execut java gradl org queri tabl entiti insert intern dao sqlite persist task api data error column record |
