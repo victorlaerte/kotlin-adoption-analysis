@@ -3,6 +3,7 @@ import java.io.File
 import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.nio.file.Paths
+import kotlin.streams.toList
 
 fun main(args: Array<String>) {
 	removeHtml()
@@ -11,6 +12,7 @@ fun main(args: Array<String>) {
 	removeStopWordsAndOneLetterWords()
 	stem()
 	nameAndLabel()
+	getQuestionSample()
 }
 
 fun getReadFile(fileName: String): File = File(fileName)
@@ -127,7 +129,7 @@ fun stem() {
 }
 
 fun nameAndLabel() {
-	val readFile = getReadFile("kotlin-posts-5.csv")
+	val readFile = getReadFile("kotlin-posts-6.csv")
 
 	if (readFile.exists()) {
 		val lines = Files.lines(Paths.get(readFile.toURI()), StandardCharsets.ISO_8859_1)
@@ -139,6 +141,38 @@ fun nameAndLabel() {
 			val text = String(myString, Charsets.UTF_8)
 			newFile.appendText("$text\n")
 			i++
+		}
+	}
+}
+
+fun getQuestionSample() {
+	val readFile = getReadFile("kotlin-posts-2.csv")
+
+	if (readFile.exists()) {
+		val questionLines = Files.lines(Paths.get(readFile.toURI()))
+
+		val questionsList = questionLines.toList()
+
+		for (i in 0 until 15) {
+			val topicFile = getReadFile("t$i.txt")
+
+			val newFile = getOrCreateWriteFile("t$i-final.txt")
+
+			if (topicFile.exists()) {
+				val lines = Files.lines(Paths.get(topicFile.toURI()))
+
+				lines.forEach { line ->
+					//Lines were saved with 0 index: +1 is needed
+					val str = line.substring(0, line.indexOf("\t"))
+					val questionIndex = Integer.valueOf(str)
+
+					val newLine = "$line ${questionsList[questionIndex]}"
+					newFile.appendText("$newLine\n")
+
+					println("${questionIndex + 1}\t${questionsList[questionIndex]}")
+					println("${line+1}\t${questionsList[questionIndex]}")
+				}
+			}
 		}
 	}
 }
