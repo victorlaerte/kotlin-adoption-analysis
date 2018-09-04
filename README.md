@@ -60,3 +60,23 @@ We have chosen 15 topics based on some [literature review](http://psiexp.ss.uci.
 | 12 | 0.03947 | dagger inject modul provid compon viewmodel depend activ class error present implement applic instanc app annot architectur work problem mvp |
 | 6 | 0.0329 | test run unit mock class mockito android method espresso fail instrument present coverag function junit follow simpl code write androidtest |
 | 5 | 0.02865 | room databas execut java gradl org queri tabl entiti insert intern dao sqlite persist task api data error column record |
+
+### Topics Classification
+
+| Topics | Weight | Topic | Possible Categories | Words | Notes |
+|---|---|---|---|---|---|
+| 1 | 0.46881 | Error - General | General Problems | work code android kotlin wai make don question tri someth time exampl problem follow app creat solut doesn find issu | No Notes |
+| 9 | 0.20464 | Build | Compilation | android kotlin build project gradl error studio file version app librari modul compil run plugin follow fail class work updat | Kapt errors, Android Studio version, Plugin versions, Gradle Plugin  |
+| 4 | 0.1689 | Code convertion (Kotlin to Java) | Java Interoperability | kotlin code java android error convert studio class file app work string lang project languag method exampl follow activ line | Android Studio Code converter, Chunck of Java codes in Kotlin Syntax, Better Kotlin Syntax |
+| 14 | 0.15408 | class kotlin type error method gener paramet object implement creat interfac constructor java pass follow call function code problem parcel |Classes and Objects | Kotlin Syntax | Class and inheritance, Generics, Constructors and functions |
+| 11 | 0.15254 | kotlin function valu null properti variabl class call method return object access wai code extens initi field type declar android | Class Members (Properties, fields and Functions) | Kotlin Syntax | Properties Initialization, Setters and getters, Optionals, Lambdas Highorder functions |
+| 13 | 0.10564 | fragment activ view layout xml anko chang main work navig set bind android tab custom menu bar code insid mainact |
+| 8 | 0.10203 | activ button click user app code edittext show text dialog set press back login android firebas open start work select |
+| 3 | 0.09935 | data list json object string arrai valu class realm pars firebas gson kotlin field model return add kei arraylist databas |
+| 10 | 0.09868 | view item recyclerview imag adapt list anim scroll load chang set layout color code click show work select screen problem |
+| 0 | 0.09223 | call thread method run function time coroutin log code event work callback activ block execut start android insid problem complet |
+| 2 | 0.08641 | app file android devic code work servic imag connect googl locat permiss applic notif send plai creat receiv save api |
+| 7 | 0.08431 | data call observ request api rxjava retrofit return respons method error model server fetch subscrib result updat servic local viewmodel |
+| 12 | 0.03947 | dagger inject modul provid compon viewmodel depend activ class error present implement applic instanc app annot architectur work problem mvp |
+| 6 | 0.0329 | test run unit mock class mockito android method espresso fail instrument present coverag function junit follow simpl code write androidtest |
+| 5 | 0.02865 | room databas execut java gradl org queri tabl entiti insert intern dao sqlite persist task api data error column record |
