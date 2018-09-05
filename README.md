@@ -66,7 +66,7 @@ We have chosen 15 topics based on some [literature review](http://psiexp.ss.uci.
 | Topics | Weight | Topic | Possible Categories | Words | Notes |
 |---|---|---|---|---|---|
 | 1 | 0.46881 | Error - General | General Problems | work code android kotlin wai make don question tri someth time exampl problem follow app creat solut doesn find issu | No Notes |
-| 9 | 0.20464 | Build | Compilation | android kotlin build project gradl error studio file version app librari modul compil run plugin follow fail class work updat | Kapt errors, Android Studio version, Plugin versions, Gradle Plugin  |
+| 9 | 0.20464 | Compilation/Build | ???? | android kotlin build project gradl error studio file version app librari modul compil run plugin follow fail class work updat | Kapt errors, Android Studio version, Plugin versions, Gradle Plugin  |
 | 4 | 0.1689 | Code convertion (Kotlin to Java) | Java Interoperability | kotlin code java android error convert studio class file app work string lang project languag method exampl follow activ line | Android Studio Code converter, Chunck of Java codes in Kotlin Syntax, Better Kotlin Syntax |
 | 14 | 0.15408 | Classes and Objects | Kotlin Syntax | Class and inheritance, Generics, Constructors and functions | class kotlin type error method gener paramet object implement creat interfac constructor java pass follow call function code problem parcel |
 | 11 | 0.15254 | Class Members (Properties, fields and Functions) | Kotlin Syntax | Properties Initialization, Setters and getters, Optionals, Lambdas Highorder functions | kotlin function valu null properti variabl class call method return object access wai code extens initi field type declar android |
