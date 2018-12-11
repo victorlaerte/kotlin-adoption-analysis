@@ -18,7 +18,7 @@
 
 - Can you please tell us your name? (Only if not mentioned before)
 - Is that okay if I ask how old are you? (Only if not mentioned before)
-- How long have you been working as developer?
+- How long have you been working as a developer?
 - How long have you been working with Android development?
 - What is your current role in the organization you work for? (If employed)
 - How long have you been working with Kotlin?
