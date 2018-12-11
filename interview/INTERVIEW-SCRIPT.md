@@ -22,7 +22,7 @@
 - How long have you been working with Android development?
 - What is your current role in the organization you work for? (If employed)
 - How long have you been working with Kotlin?
-- How do you consider your level knowledge in Kotlin?
+- How do you consider your knowledge level in Kotlin?
 - Do you have any background with Java ?
 
 ## Kotlin (RQ1 and RQ2)
