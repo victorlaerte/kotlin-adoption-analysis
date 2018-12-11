@@ -45,7 +45,7 @@
 
 ## High Order Functions/Lambdas (RQ4)
 
-- Do you think that Kotlin provides support for functional progamming in any way?
+- Do you think that Kotlin provides support for functional programming in any way?
 - Have you ever experienced problems with any functional programming practices in Kotlin? Practices like lambdas, hight order functions, currying, etc?
 - What do you think could be improved in Kotlin functional paradigm support?
 
