@@ -53,7 +53,7 @@
 
 - In your opinion does Android Studio provide a good experience for Kotlin Developers?
 - Have you experienced any problems trying to develop Android Apps with Kotlin regarding Android Studio?
-- Gradle is currently the most popular compilation automation system used by android developers. To use Kotlin with Gradle some settings must be made, but may vary depending on the version of gradle and Android Studio you are using. Have you experienced compile issues because of some gradle configuration, including kotlin-android or kapt plugins?
+- Gradle is currently the most popular compilation automation system used by android developers. To use Kotlin with Gradle some settings must be made, but may vary depending on the version of gradle and Android Studio you are using. Have you experienced compile issues because of some gradle configuration?
 - What do you think could be improved in Android Studio regarding Kotlin?
 
 ## Closing
