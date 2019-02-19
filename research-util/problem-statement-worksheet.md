@@ -1,0 +1,6 @@
+- In your field, what topic is of interest to you that you could shape into a research study?
+- What are some of the things we DO know about this problem/topic from the literature?
+- What is the GAP in our knowledge/understanding of this phenomenon? That is, what is missing from the literature on this topic? This is the PROBLEM of your study. (Although we know x, y, z about this phenomenon, we DO NOT KNOW . . . )
+- Take the "gap" in our knowledge and turn it into a purpose statement. Complete this sentence:
+    - The purpose of this study is to...
+- What are the specifi c research questions that elaborate your research purpose?
