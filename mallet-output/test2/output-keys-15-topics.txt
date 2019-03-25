@@ -1,0 +1,15 @@
+0	0.09715	data room database rxjava call method thread observable called return 
+1	0.11148	view layout button xml text set custom change code edittext 
+2	0.02993	test tests unit run class mock testing mockito method kotlin 
+3	0.07179	recyclerview adapter item list view items data recycler listview spinner 
+4	0.07438	app android time service device notification code user working play 
+5	0.09287	activity fragment fragments main app navigation button back mainactivity xml 
+6	0.18577	kotlin class method function type error object java code null 
+7	0.04556	dagger viewmodel class module inject binding data component activity application 
+8	0.08306	firebase data api retrofit request user response server database login 
+9	0.15662	android kotlin project gradle build studio error app version file 
+10	0.28017	kotlin android code work question don make find solution app 
+11	0.06016	image file code android images camera url files app webview 
+12	0.22919	kotlin code android error java app studio exception file class 
+13	0.00547	java android internal firebase org activitythread gradle google app lang 
+14	0.0855	data string json list object array class kotlin gson values 

@@ -18,7 +18,7 @@ mallet import-file --input mallet-input/kotlin-posts-i.txt --output output.malle
 - **[mallet-output](/mallet-output)** - In this directory you can find four test rounds. ```test-1``` was generated with the [output.mallet](/output.mallet) generated with [kotlin-posts-6.csv](/kotlin-posts-6.csv). ```test-2``` was generated with [kotlin-posts-5.csv](/kotlin-posts-5.csv).
 - **[test-1](/mallet-output/test-1)** - In this directory you can find tests for i-topics respectively generated with following command:
 ```
-mallet train-topics --input output.mallet --num-topics i --optimize-interval 20 --output-state topic-state-i.gz --output-topic-keys output-keys-i-topics.txt --output-doc-topics output-composition-i-topics.txt
+mallet train-topics --input output.mallet --num-topics 15 --optimize-interval 20 --output-state topic-state-15.gz --output-topic-keys output-keys-15-topics.txt --output-doc-topics output-composition-15-topics.txt --num-iterations 2000 --num-top-words 10 --topic-word-weights-file topic-word-weights-15.txt --xml-topic-report xml-topic-report.xml --xml-topic-phrase-report xml-topic-phrase-report.xml
 ```
 - **[test-2](/mallet-output/test-2)** - In this directory you can find tests for i-topics respectively generated with following command:
 ```
