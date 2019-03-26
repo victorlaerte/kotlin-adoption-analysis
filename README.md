@@ -45,7 +45,7 @@ We have chosen 15 topics based on some [literature review](http://psiexp.ss.uci.
 
 | Topics | Weight | Words | Top 5 Phrases |
 |---|---|---|---|
-|6|0.31324|test(0.03087) android(0.01847) wai(0.01767) work(0.0173) kotlin(0.01650) code(0.01584) question(0.01151) someth(0.01110) make(0.00971) exampl(0.00891)|unit test(0.0087) instrument test(0.0022 android kotlin(0.0017) junit test(0.0014) espresso test(0.0012)|
+|6|0.31324|test(0.03087) android(0.01847) wai(0.01767) work(0.0173) kotlin(0.01650) code(0.01584) question(0.01151) someth(0.01110) make(0.00971) exampl(0.00891)|unit test(0.0087) instrument test(0.0022) android kotlin(0.0017) junit test(0.0014) espresso test(0.0012)|
 |13|0.20037|error(0.0666) code(0.0641) kotlin(0.0482) android(0.0375) work(0.0308) app(0.02572) crash(0.0230) line(0.0147) follow(0.0142) problem(0.0134)|android studio(0.0091) app crash(0.0087) work fine(0.0054) android kotlin(0.0052) kotlin android(0.0052)|
 |9|0.15475|kotlin(0.0784) class(0.0682) type(0.0356) function(0.0354) method(0.0277) error(0.0272) java(0.0237) code(0.0219) gener(0.0184) paramet(0.0175)|type mismatch(0.0068) kotlin(0.0050) kotlin class(0.0048) class kotlin(0.0037) extens function(0.0028)|
 |14|0.14456|android(0.0607) kotlin(0.0563) project(0.0431) build(0.0425) gradl(0.0404) studio(0.0325) error(0.0312) file(0.0251) version(0.0196) app(0.0161)|android studio(0.0218) build gradl(0.0076) unresolv refer(0.0057) kotlin android(0.0035) android kotlin(0.0034)|
