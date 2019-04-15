@@ -1,0 +1,333 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.059010012750896845" totalTokens="13383" titles="room databas, firebas databas, room persist, queri, user, tabl, realm, insert, entiti, ">
+	<word weight="0.06366285586191436" count="852">databas</word>
+	<word weight="0.05066128670701636" count="678">data</word>
+	<word weight="0.04670103863109915" count="625">room</word>
+	<word weight="0.03564223268325487" count="477">firebas</word>
+	<word weight="0.030187551371142495" count="404">queri</word>
+	<word weight="0.022864828513786146" count="306">user</word>
+	<word weight="0.021295673615781215" count="285">tabl</word>
+	<word weight="0.020100127026825076" count="269">realm</word>
+	<word weight="0.01875513711424942" count="251">insert</word>
+	<word weight="0.016289322274527385" count="218">entiti</word>
+	<phrase weight="0.02082390221819828" count="46">room databas</phrase>
+	<phrase weight="0.01403349932095971" count="31">firebas databas</phrase>
+	<phrase weight="0.009959257582616569" count="22">room persist</phrase>
+	<phrase weight="0.007243096423721141" count="16">firebas firestor</phrase>
+	<phrase weight="0.004526935264825713" count="10">room dao</phrase>
+	<phrase weight="0.004526935264825713" count="10">room entiti</phrase>
+	<phrase weight="0.004074241738343142" count="9">data firebas</phrase>
+	<phrase weight="0.0036215482118605704" count="8">sqlite databas</phrase>
+	<phrase weight="0.003168854685377999" count="7">realm queri</phrase>
+	<phrase weight="0.003168854685377999" count="7">data databas</phrase>
+  </topic>
+  <topic id="1" alpha="0.19075046672396376" totalTokens="35815" titles="extens function, kotlin, class, companion object, method, type, call, java, error, paramet">
+	<word weight="0.06564288705849504" count="2351">kotlin</word>
+	<word weight="0.06279491833030854" count="2249">class</word>
+	<word weight="0.035543766578249335" count="1273">method</word>
+	<word weight="0.03283540416026805" count="1176">function</word>
+	<word weight="0.02605053748429429" count="933">type</word>
+	<word weight="0.02289543487365629" count="820">call</word>
+	<word weight="0.020829261482619016" count="746">object</word>
+	<word weight="0.017869607706268324" count="640">java</word>
+	<word weight="0.01700404858299595" count="609">error</word>
+	<word weight="0.016166410721764623" count="579">paramet</word>
+	<phrase weight="0.004318100035984167" count="24">extens function</phrase>
+	<phrase weight="0.00395825836631882" count="22">companion object</phrase>
+	<phrase weight="0.0035984166966534724" count="20">class kotlin</phrase>
+	<phrase weight="0.003418495861820799" count="19">call function</phrase>
+	<phrase weight="0.003418495861820799" count="19">type mismatch</phrase>
+	<phrase weight="0.0028787333573227778" count="16">call method</phrase>
+	<phrase weight="0.0025188916876574307" count="14">memori leak</phrase>
+	<phrase weight="0.0021590500179920835" count="12">lambda express</phrase>
+	<phrase weight="0.00197912918315941" count="11">java class</phrase>
+	<phrase weight="0.00197912918315941" count="11">class call</phrase>
+  </topic>
+  <topic id="2" alpha="0.0580702555640413" totalTokens="13274" titles="data class, json, object, list, kotlin, map, pars, gson, model, ">
+	<word weight="0.06132288684646678" count="814">data</word>
+	<word weight="0.05401536838933253" count="717">class</word>
+	<word weight="0.05115262919993973" count="679">json</word>
+	<word weight="0.04738586710863342" count="629">object</word>
+	<word weight="0.030510772939581137" count="405">list</word>
+	<word weight="0.0269700165737532" count="358">kotlin</word>
+	<word weight="0.026668675606448696" count="354">map</word>
+	<word weight="0.02252523730601175" count="299">pars</word>
+	<word weight="0.022148561096881122" count="294">gson</word>
+	<word weight="0.021093867711315353" count="280">model</word>
+	<phrase weight="0.016408386508659983" count="36">data class</phrase>
+	<phrase weight="0.008204193254329991" count="18">pars json</phrase>
+	<phrase weight="0.007748404740200547" count="17">model class</phrase>
+	<phrase weight="0.0068368277119416595" count="15">json data</phrase>
+	<phrase weight="0.0054694621695533276" count="12">json object</phrase>
+	<phrase weight="0.004102096627164996" count="9">googl map</phrase>
+	<phrase weight="0.0036463081130355514" count="8">list object</phrase>
+	<phrase weight="0.0036463081130355514" count="8">data json</phrase>
+	<phrase weight="0.0031905195989061076" count="7">pass data</phrase>
+	<phrase weight="0.0022789425706472195" count="5">data type</phrase>
+  </topic>
+  <topic id="3" alpha="0.3575260100204339" totalTokens="62384" titles="android, wai, code, kotlin, work, question, make, exampl, someth, don">
+	<word weight="0.022634008720184663" count="1412">android</word>
+	<word weight="0.019989099769171584" count="1247">wai</word>
+	<word weight="0.01598166196460631" count="997">code</word>
+	<word weight="0.015532828930494999" count="969">kotlin</word>
+	<word weight="0.015003847140292383" count="936">work</word>
+	<word weight="0.012134521672223647" count="757">question</word>
+	<word weight="0.011845986150294948" count="739">make</word>
+	<word weight="0.011268915106437549" count="703">exampl</word>
+	<word weight="0.010291100282123622" count="642">someth</word>
+	<word weight="0.009393434213901" count="586">don</word>
+	<phrase weight="0.002021491648047665" count="19">android kotlin</phrase>
+	<phrase weight="0.0015959144589849984" count="15">everi time</phrase>
+	<phrase weight="0.0015959144589849984" count="15">don understand</phrase>
+	<phrase weight="0.0013831258644536654" count="13">everi singl</phrase>
+	<phrase weight="0.0012767315671879987" count="12">android app</phrase>
+	<phrase weight="0.0011703372699223321" count="11">similar question</phrase>
+	<phrase weight="0.0010639429726566655" count="10">kotlin android</phrase>
+	<phrase weight="0.0010639429726566655" count="10">answer question</phrase>
+	<phrase weight="9.57548675390999E-4" count="9">react nativ</phrase>
+	<phrase weight="9.57548675390999E-4" count="9">wai make</phrase>
+  </topic>
+  <topic id="4" alpha="0.036700609813108555" totalTokens="8473" titles="thread, run, coroutin, execut, call, task, time, java, org, gradl">
+	<word weight="0.04897911011448129" count="415">thread</word>
+	<word weight="0.04307801251032692" count="365">run</word>
+	<word weight="0.041425705181163695" count="351">coroutin</word>
+	<word weight="0.03587867343325859" count="304">execut</word>
+	<word weight="0.032338014870765965" count="274">call</word>
+	<word weight="0.0244305440811991" count="207">task</word>
+	<word weight="0.022070105039537356" count="187">time</word>
+	<word weight="0.019355600141626343" count="164">java</word>
+	<word weight="0.017703292812463117" count="150">org</word>
+	<word weight="0.01581494157913372" count="134">gradl</word>
+	<phrase weight="0.014336917562724014" count="16">background thread</phrase>
+	<phrase weight="0.011648745519713262" count="13">main thread</phrase>
+	<phrase weight="0.008064516129032258" count="9">async task</phrase>
+	<phrase weight="0.004480286738351254" count="5">thread thread</phrase>
+	<phrase weight="0.004480286738351254" count="5">everi time</phrase>
+	<phrase weight="0.0035842293906810036" count="4">background job</phrase>
+	<phrase weight="0.0035842293906810036" count="4">task finish</phrase>
+	<phrase weight="0.0035842293906810036" count="4">suspend function</phrase>
+	<phrase weight="0.0035842293906810036" count="4">async await</phrase>
+	<phrase weight="0.002688172043010753" count="3">job schedul</phrase>
+  </topic>
+  <topic id="5" alpha="0.0923544289987509" totalTokens="22419" titles="custom view, layout, button, chang, set, imag, xml, anim, color, ">
+	<word weight="0.039564654980150764" count="887">view</word>
+	<word weight="0.034301262322137475" count="769">layout</word>
+	<word weight="0.024577367411570544" count="551">button</word>
+	<word weight="0.020339890271644588" count="456">chang</word>
+	<word weight="0.019670814933761542" count="441">set</word>
+	<word weight="0.018734109460725276" count="420">imag</word>
+	<word weight="0.018689504438199743" count="419">custom</word>
+	<word weight="0.01819884919041884" count="408">xml</word>
+	<word weight="0.018020429100316697" count="404">anim</word>
+	<word weight="0.01645925331192292" count="369">color</word>
+	<phrase weight="0.00792393026941363" count="30">custom view</phrase>
+	<phrase weight="0.0029054410987849975" count="11">radio button</phrase>
+	<phrase weight="0.002377179080824089" count="9">anko layout</phrase>
+	<phrase weight="0.0021130480718436345" count="8">soft keyboard</phrase>
+	<phrase weight="0.0021130480718436345" count="8">chang color</phrase>
+	<phrase weight="0.0018489170628631802" count="7">layout xml</phrase>
+	<phrase weight="0.0018489170628631802" count="7">custom dialog</phrase>
+	<phrase weight="0.0018489170628631802" count="7">xml layout</phrase>
+	<phrase weight="0.0018489170628631802" count="7">background color</phrase>
+	<phrase weight="0.0018489170628631802" count="7">progress bar</phrase>
+  </topic>
+  <topic id="6" alpha="0.07643270239759171" totalTokens="14166" titles="valu, string, text, kotlin, number, code, date, time, android, chang">
+	<word weight="0.05230834392206692" count="741">valu</word>
+	<word weight="0.04891994917407878" count="693">string</word>
+	<word weight="0.02096569250317662" count="297">text</word>
+	<word weight="0.019906819144430325" count="282">kotlin</word>
+	<word weight="0.018636171113934775" count="264">number</word>
+	<word weight="0.01807143865593675" count="256">code</word>
+	<word weight="0.01595369193844416" count="226">date</word>
+	<word weight="0.015036001694197373" count="213">time</word>
+	<word weight="0.014894818579697868" count="211">android</word>
+	<word weight="0.012706480304955527" count="180">chang</word>
+	<phrase weight="0.0036363636363636364" count="8">string valu</phrase>
+	<phrase weight="0.003181818181818182" count="7">string string</phrase>
+	<phrase weight="0.0027272727272727275" count="6">return valu</phrase>
+	<phrase weight="0.0022727272727272726" count="5">string resourc</phrase>
+	<phrase weight="0.0022727272727272726" count="5">kotlin android</phrase>
+	<phrase weight="0.0018181818181818182" count="4">match regex</phrase>
+	<phrase weight="0.0018181818181818182" count="4">input field</phrase>
+	<phrase weight="0.0018181818181818182" count="4">share prefer</phrase>
+	<phrase weight="0.0018181818181818182" count="4">valu string</phrase>
+	<phrase weight="0.0018181818181818182" count="4">raw string</phrase>
+  </topic>
+  <topic id="7" alpha="0.10578915720673514" totalTokens="24879" titles="main activ, activ fragment, fragment fragment, fragment activ, click button, navig, app, call, back, mainact">
+	<word weight="0.09803448691667671" count="2439">activ</word>
+	<word weight="0.09767273604244543" count="2430">fragment</word>
+	<word weight="0.027493066441577233" count="684">button</word>
+	<word weight="0.024438281281401984" count="608">click</word>
+	<word weight="0.0202982434985329" count="505">navig</word>
+	<word weight="0.019976687165882873" count="497">app</word>
+	<word weight="0.017524820129426424" count="436">main</word>
+	<word weight="0.015072953092969976" count="375">call</word>
+	<word weight="0.014108284095019897" count="351">back</word>
+	<word weight="0.01390731138711363" count="346">mainact</word>
+	<phrase weight="0.013228186212159756" count="52">main activ</phrase>
+	<phrase weight="0.008140422284406004" count="32">activ fragment</phrase>
+	<phrase weight="0.006614093106079878" count="26">fragment fragment</phrase>
+	<phrase weight="0.005850928516916815" count="23">fragment activ</phrase>
+	<phrase weight="0.0053421521241414395" count="21">click button</phrase>
+	<phrase weight="0.005087763927753753" count="20">activ activ</phrase>
+	<phrase weight="0.003815822945815314" count="15">navig drawer</phrase>
+	<phrase weight="0.003307046553039939" count="13">press button</phrase>
+	<phrase weight="0.0030526583566522513" count="12">activ main</phrase>
+	<phrase weight="0.0025438819638768763" count="10">button click</phrase>
+  </topic>
+  <topic id="8" alpha="0.011314227480288947" totalTokens="5187" titles="java, android, firebas, app, activitythread, googl, lang, view, method, handler">
+	<word weight="0.08386350491613649" count="435">java</word>
+	<word weight="0.07615191825718141" count="395">android</word>
+	<word weight="0.03315982263350684" count="172">firebas</word>
+	<word weight="0.027954501638712166" count="145">app</word>
+	<word weight="0.02621939464044727" count="136">activitythread</word>
+	<word weight="0.02583381530749952" count="134">googl</word>
+	<word weight="0.023327549643339118" count="121">lang</word>
+	<word weight="0.016965490649701175" count="88">view</word>
+	<word weight="0.01542317331791016" count="80">method</word>
+	<word weight="0.014844804318488529" count="77">handler</word>
+	<phrase weight="0.014018691588785047" count="6">java lang</phrase>
+	<phrase weight="0.011682242990654205" count="5">android app</phrase>
+	<phrase weight="0.009345794392523364" count="4">java lang runtimeexcept</phrase>
+	<phrase weight="0.007009345794392523" count="3">lang runtimeexcept</phrase>
+	<phrase weight="0.007009345794392523" count="3">handler android</phrase>
+	<phrase weight="0.007009345794392523" count="3">app simon</phrase>
+	<phrase weight="0.007009345794392523" count="3">signal sigbu</phrase>
+	<phrase weight="0.007009345794392523" count="3">fatal signal sigbu</phrase>
+	<phrase weight="0.004672897196261682" count="2">app activitythread main activitythread java java lang reflect method invok nativ</phrase>
+	<phrase weight="0.004672897196261682" count="2">android content componentnam</phrase>
+  </topic>
+  <topic id="9" alpha="0.1460584971104346" totalTokens="40529" titles="android studio, build gradl, kotlin, android project, error, file, version, app, ">
+	<word weight="0.059315551827086775" count="2404">android</word>
+	<word weight="0.05257963433590762" count="2131">kotlin</word>
+	<word weight="0.0431296108959017" count="1748">build</word>
+	<word weight="0.04236472649214143" count="1717">project</word>
+	<word weight="0.04147647363616176" count="1681">gradl</word>
+	<word weight="0.03424708233610501" count="1388">error</word>
+	<word weight="0.03121221841150781" count="1265">studio</word>
+	<word weight="0.024426953539440893" count="990">file</word>
+	<word weight="0.019442868069777196" count="788">version</word>
+	<word weight="0.01855461521379753" count="752">app</word>
+	<phrase weight="0.017479739392976323" count="110">android studio</phrase>
+	<phrase weight="0.009534403305259813" count="60">build gradl</phrase>
+	<phrase weight="0.0033370411568409346" count="21">android project</phrase>
+	<phrase weight="0.003019227713332274" count="19">android app</phrase>
+	<phrase weight="0.0027014142698236136" count="17">kotlin android</phrase>
+	<phrase weight="0.0027014142698236136" count="17">unresolv refer</phrase>
+	<phrase weight="0.0027014142698236136" count="17">gradl file</phrase>
+	<phrase weight="0.002224694104560623" count="14">android kotlin</phrase>
+	<phrase weight="0.0020657873828062927" count="13">kotlin file</phrase>
+	<phrase weight="0.0019068806610519624" count="12">compil error</phrase>
+  </topic>
+  <topic id="10" alpha="0.24725447030885475" totalTokens="39032" titles="android studio, android kotlin, kotlin android, kotlin code, java kotlin, unresolv refer, app crash, java code, kotlin java, error messag">
+	<word weight="0.10245439639270343" count="3999">kotlin</word>
+	<word weight="0.07552777208444353" count="2948">code</word>
+	<word weight="0.05198298831727813" count="2029">error</word>
+	<word weight="0.047115187538430005" count="1839">android</word>
+	<word weight="0.03837876614060258" count="1498">java</word>
+	<word weight="0.027157204345152695" count="1060">work</word>
+	<word weight="0.017908382865341257" count="699">file</word>
+	<word weight="0.017319122771059643" count="676">convert</word>
+	<word weight="0.015833162533306005" count="618">app</word>
+	<word weight="0.01521828243492519" count="594">studio</word>
+	<phrase weight="0.01658554173427078" count="92">android studio</phrase>
+	<phrase weight="0.01081665765278529" count="60">android kotlin</phrase>
+	<phrase weight="0.00847304849468181" count="47">kotlin android</phrase>
+	<phrase weight="0.006129439336578331" count="34">kotlin code</phrase>
+	<phrase weight="0.005949161709031909" count="33">java kotlin</phrase>
+	<phrase weight="0.005228051198846223" count="29">unresolv refer</phrase>
+	<phrase weight="0.004326663061114116" count="24">app crash</phrase>
+	<phrase weight="0.0037858301784748512" count="21">java code</phrase>
+	<phrase weight="0.0037858301784748512" count="21">kotlin java</phrase>
+	<phrase weight="0.0037858301784748512" count="21">error messag</phrase>
+  </topic>
+  <topic id="11" alpha="0.10710628020950895" totalTokens="27702" titles="app, android, file, imag, work, devic, code, user, servic, notif">
+	<word weight="0.04183813443072702" count="1159">app</word>
+	<word weight="0.02721825138979135" count="754">android</word>
+	<word weight="0.026351887950328497" count="730">file</word>
+	<word weight="0.023319615912208505" count="646">imag</word>
+	<word weight="0.021189805790195654" count="587">work</word>
+	<word weight="0.019998556060934227" count="554">devic</word>
+	<word weight="0.01924048805140423" count="533">code</word>
+	<word weight="0.013356436358385676" count="370">user</word>
+	<word weight="0.013212042451808534" count="366">servic</word>
+	<word weight="0.011298823189661395" count="313">notif</word>
+	<phrase weight="0.0037974683544303796" count="18">android app</phrase>
+	<phrase weight="0.002109704641350211" count="10">app crash</phrase>
+	<phrase weight="0.002109704641350211" count="10">googl map</phrase>
+	<phrase weight="0.0018987341772151898" count="9">upload imag</phrase>
+	<phrase weight="0.0018987341772151898" count="9">broadcast receiv</phrase>
+	<phrase weight="0.0018987341772151898" count="9">googl plai</phrase>
+	<phrase weight="0.0014767932489451476" count="7">googl sign</phrase>
+	<phrase weight="0.0014767932489451476" count="7">send notif</phrase>
+	<phrase weight="0.0014767932489451476" count="7">doesn work</phrase>
+	<phrase weight="0.0014767932489451476" count="7">ble devic</phrase>
+  </topic>
+  <topic id="12" alpha="0.08886511280937173" totalTokens="21731" titles="call, observ, request, data, return, rxjava, api, retrofit, method, respons">
+	<word weight="0.052321568266531684" count="1137">call</word>
+	<word weight="0.03152178914914178" count="685">observ</word>
+	<word weight="0.029635083521236942" count="644">request</word>
+	<word weight="0.02779439510376881" count="604">data</word>
+	<word weight="0.02751829184114859" count="598">return</word>
+	<word weight="0.025677603423680456" count="558">rxjava</word>
+	<word weight="0.023468777322718695" count="510">api</word>
+	<word weight="0.022042243799180895" count="479">retrofit</word>
+	<word weight="0.016658230178086604" count="362">method</word>
+	<word weight="0.014403386866688142" count="313">respons</word>
+	<phrase weight="0.004128819157720892" count="15">http request</phrase>
+	<phrase weight="0.0035783099366914397" count="13">api call</phrase>
+	<phrase weight="0.0030278007156619873" count="11">rxjava retrofit</phrase>
+	<phrase weight="0.0030278007156619873" count="11">live data</phrase>
+	<phrase weight="0.002477291494632535" count="9">method call</phrase>
+	<phrase weight="0.0019267822736030828" count="7">rest api</phrase>
+	<phrase weight="0.0019267822736030828" count="7">call method</phrase>
+	<phrase weight="0.0019267822736030828" count="7">send data</phrase>
+	<phrase weight="0.0016515276630883566" count="6">retrofit api</phrase>
+	<phrase weight="0.0016515276630883566" count="6">observ observ</phrase>
+  </topic>
+  <topic id="13" alpha="0.05143847463367334" totalTokens="13135" titles="unit test, dagger inject, architectur compon, instrument test, class, modul, provid, run, mock, ">
+	<word weight="0.11579748762847354" count="1521">test</word>
+	<word weight="0.054434716406547394" count="715">dagger</word>
+	<word weight="0.0449942900647126" count="591">class</word>
+	<word weight="0.04362390559573658" count="573">inject</word>
+	<word weight="0.028625808907499047" count="376">modul</word>
+	<word weight="0.023753330795584317" count="312">compon</word>
+	<word weight="0.022535211267605635" count="296">provid</word>
+	<word weight="0.022078416444613627" count="290">unit</word>
+	<word weight="0.021164826798629615" count="278">run</word>
+	<word weight="0.02032736962314427" count="267">mock</word>
+	<phrase weight="0.034482758620689655" count="77">unit test</phrase>
+	<phrase weight="0.011195700850873265" count="25">dagger inject</phrase>
+	<phrase weight="0.009852216748768473" count="22">architectur compon</phrase>
+	<phrase weight="0.009852216748768473" count="22">instrument test</phrase>
+	<phrase weight="0.00761307657859382" count="17">run test</phrase>
+	<phrase weight="0.005373936408419167" count="12">test test</phrase>
+	<phrase weight="0.005373936408419167" count="12">test class</phrase>
+	<phrase weight="0.005373936408419167" count="12">junit test</phrase>
+	<phrase weight="0.0044782803403493054" count="10">espresso test</phrase>
+	<phrase weight="0.004030452306314375" count="9">dagger modul</phrase>
+  </topic>
+  <topic id="14" alpha="0.07882980692642746" totalTokens="18692" titles="data bind, recycl view, recyclerview adapt, list item, click, layout, select, ">
+	<word weight="0.06510806762251231" count="1217">item</word>
+	<word weight="0.05414080890220415" count="1012">view</word>
+	<word weight="0.052054354804194305" count="973">recyclerview</word>
+	<word weight="0.046383479563449605" count="867">adapt</word>
+	<word weight="0.034560239674727156" count="646">list</word>
+	<word weight="0.02760539268136101" count="516">data</word>
+	<word weight="0.021774020971538625" count="407">bind</word>
+	<word weight="0.020062058634710035" count="375">click</word>
+	<word weight="0.019099079820243954" count="357">layout</word>
+	<word weight="0.015247164562379628" count="285">select</word>
+	<phrase weight="0.016796267496111975" count="54">data bind</phrase>
+	<phrase weight="0.012441679626749611" count="40">recycl view</phrase>
+	<phrase weight="0.011508553654743391" count="37">recyclerview adapt</phrase>
+	<phrase weight="0.007153965785381027" count="23">list item</phrase>
+	<phrase weight="0.005909797822706065" count="19">bind adapt</phrase>
+	<phrase weight="0.004043545878693624" count="13">recyclerview item</phrase>
+	<phrase weight="0.0037325038880248835" count="12">select item</phrase>
+	<phrase weight="0.003421461897356143" count="11">item list</phrase>
+	<phrase weight="0.003421461897356143" count="11">list view</phrase>
+	<phrase weight="0.003421461897356143" count="11">recyclerview viewhold</phrase>
+  </topic>
+</topics>

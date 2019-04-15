@@ -1,0 +1,15 @@
+0	0.05901	databas data room firebas queri user tabl realm insert entiti 
+1	0.19075	kotlin class method function type call object java error paramet 
+2	0.05807	data class json object list kotlin map pars gson model 
+3	0.35753	android wai code kotlin work question make exampl someth don 
+4	0.0367	thread run coroutin execut call task time java org gradl 
+5	0.09235	view layout button chang set imag custom xml anim color 
+6	0.07643	valu string text kotlin number code date time android chang 
+7	0.10579	activ fragment button click navig app main call back mainact 
+8	0.01131	java android firebas app activitythread googl lang view method handler 
+9	0.14606	android kotlin build project gradl error studio file version app 
+10	0.24725	kotlin code error android java work file convert app studio 
+11	0.10711	app android file imag work devic code user servic notif 
+12	0.08887	call observ request data return rxjava api retrofit method respons 
+13	0.05144	test dagger class inject modul compon provid unit run mock 
+14	0.07883	item view recyclerview adapt list data bind click layout select 
