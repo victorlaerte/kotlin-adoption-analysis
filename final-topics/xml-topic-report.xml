@@ -1,183 +1,183 @@
 <?xml version='1.0' ?>
 <topicModel>
-  <topic id='0' alpha='0.059010012750896845' totalTokens='13383'>
-	<word rank='1' count='852.0'>databas</word>
-	<word rank='2' count='678.0'>data</word>
-	<word rank='3' count='625.0'>room</word>
-	<word rank='4' count='477.0'>firebas</word>
-	<word rank='5' count='404.0'>queri</word>
-	<word rank='6' count='306.0'>user</word>
-	<word rank='7' count='285.0'>tabl</word>
-	<word rank='8' count='269.0'>realm</word>
-	<word rank='9' count='251.0'>insert</word>
-	<word rank='10' count='218.0'>entiti</word>
+  <topic id='0' alpha='0.06363129889504295' totalTokens='15556'>
+	<word rank='1' count='869.0'>data</word>
+	<word rank='2' count='679.0'>json</word>
+	<word rank='3' count='591.0'>retrofit</word>
+	<word rank='4' count='567.0'>api</word>
+	<word rank='5' count='477.0'>class</word>
+	<word rank='6' count='441.0'>respons</word>
+	<word rank='7' count='436.0'>object</word>
+	<word rank='8' count='414.0'>request</word>
+	<word rank='9' count='293.0'>gson</word>
+	<word rank='10' count='292.0'>pars</word>
   </topic>
-  <topic id='1' alpha='0.19075046672396376' totalTokens='35815'>
-	<word rank='1' count='2351.0'>kotlin</word>
-	<word rank='2' count='2249.0'>class</word>
-	<word rank='3' count='1273.0'>method</word>
-	<word rank='4' count='1176.0'>function</word>
-	<word rank='5' count='933.0'>type</word>
-	<word rank='6' count='820.0'>call</word>
-	<word rank='7' count='746.0'>object</word>
-	<word rank='8' count='640.0'>java</word>
-	<word rank='9' count='609.0'>error</word>
-	<word rank='10' count='579.0'>paramet</word>
+  <topic id='1' alpha='0.08868171443784213' totalTokens='22422'>
+	<word rank='1' count='1060.0'>app</word>
+	<word rank='2' count='688.0'>android</word>
+	<word rank='3' count='517.0'>devic</word>
+	<word rank='4' count='493.0'>work</word>
+	<word rank='5' count='471.0'>user</word>
+	<word rank='6' count='438.0'>servic</word>
+	<word rank='7' count='332.0'>connect</word>
+	<word rank='8' count='327.0'>code</word>
+	<word rank='9' count='322.0'>googl</word>
+	<word rank='10' count='307.0'>notif</word>
   </topic>
-  <topic id='2' alpha='0.0580702555640413' totalTokens='13274'>
-	<word rank='1' count='814.0'>data</word>
-	<word rank='2' count='717.0'>class</word>
-	<word rank='3' count='679.0'>json</word>
-	<word rank='4' count='629.0'>object</word>
-	<word rank='5' count='405.0'>list</word>
-	<word rank='6' count='358.0'>kotlin</word>
-	<word rank='7' count='354.0'>map</word>
-	<word rank='8' count='299.0'>pars</word>
-	<word rank='9' count='294.0'>gson</word>
-	<word rank='10' count='280.0'>model</word>
+  <topic id='2' alpha='0.055320303253878336' totalTokens='12533'>
+	<word rank='1' count='1016.0'>imag</word>
+	<word rank='2' count='957.0'>file</word>
+	<word rank='3' count='296.0'>load</word>
+	<word rank='4' count='274.0'>code</word>
+	<word rank='5' count='242.0'>download</word>
+	<word rank='6' count='218.0'>url</word>
+	<word rank='7' count='204.0'>android</word>
+	<word rank='8' count='201.0'>app</word>
+	<word rank='9' count='193.0'>upload</word>
+	<word rank='10' count='192.0'>camera</word>
   </topic>
-  <topic id='3' alpha='0.3575260100204339' totalTokens='62384'>
-	<word rank='1' count='1412.0'>android</word>
-	<word rank='2' count='1247.0'>wai</word>
-	<word rank='3' count='997.0'>code</word>
-	<word rank='4' count='969.0'>kotlin</word>
-	<word rank='5' count='936.0'>work</word>
-	<word rank='6' count='757.0'>question</word>
-	<word rank='7' count='739.0'>make</word>
-	<word rank='8' count='703.0'>exampl</word>
-	<word rank='9' count='642.0'>someth</word>
-	<word rank='10' count='586.0'>don</word>
+  <topic id='3' alpha='0.07408105438696595' totalTokens='17097'>
+	<word rank='1' count='1223.0'>item</word>
+	<word rank='2' count='975.0'>recyclerview</word>
+	<word rank='3' count='918.0'>view</word>
+	<word rank='4' count='857.0'>adapt</word>
+	<word rank='5' count='711.0'>list</word>
+	<word rank='6' count='359.0'>data</word>
+	<word rank='7' count='337.0'>scroll</word>
+	<word rank='8' count='285.0'>layout</word>
+	<word rank='9' count='282.0'>recycl</word>
+	<word rank='10' count='278.0'>click</word>
   </topic>
-  <topic id='4' alpha='0.036700609813108555' totalTokens='8473'>
-	<word rank='1' count='415.0'>thread</word>
-	<word rank='2' count='365.0'>run</word>
-	<word rank='3' count='351.0'>coroutin</word>
-	<word rank='4' count='304.0'>execut</word>
-	<word rank='5' count='274.0'>call</word>
-	<word rank='6' count='207.0'>task</word>
-	<word rank='7' count='187.0'>time</word>
-	<word rank='8' count='164.0'>java</word>
-	<word rank='9' count='150.0'>org</word>
-	<word rank='10' count='134.0'>gradl</word>
+  <topic id='4' alpha='0.1901191759707905' totalTokens='35901'>
+	<word rank='1' count='2652.0'>class</word>
+	<word rank='2' count='2114.0'>kotlin</word>
+	<word rank='3' count='1316.0'>method</word>
+	<word rank='4' count='1083.0'>function</word>
+	<word rank='5' count='954.0'>type</word>
+	<word rank='6' count='875.0'>object</word>
+	<word rank='7' count='790.0'>call</word>
+	<word rank='8' count='601.0'>error</word>
+	<word rank='9' count='577.0'>java</word>
+	<word rank='10' count='511.0'>paramet</word>
   </topic>
-  <topic id='5' alpha='0.0923544289987509' totalTokens='22419'>
-	<word rank='1' count='887.0'>view</word>
-	<word rank='2' count='769.0'>layout</word>
-	<word rank='3' count='551.0'>button</word>
-	<word rank='4' count='456.0'>chang</word>
-	<word rank='5' count='441.0'>set</word>
-	<word rank='6' count='420.0'>imag</word>
-	<word rank='7' count='419.0'>custom</word>
-	<word rank='8' count='408.0'>xml</word>
-	<word rank='9' count='404.0'>anim</word>
+  <topic id='5' alpha='0.09438860911461264' totalTokens='17078'>
+	<word rank='1' count='958.0'>valu</word>
+	<word rank='2' count='724.0'>string</word>
+	<word rank='3' count='451.0'>kotlin</word>
+	<word rank='4' count='369.0'>list</word>
+	<word rank='5' count='356.0'>code</word>
+	<word rank='6' count='278.0'>arrai</word>
+	<word rank='7' count='263.0'>return</word>
+	<word rank='8' count='254.0'>time</word>
+	<word rank='9' count='240.0'>number</word>
+	<word rank='10' count='227.0'>date</word>
+  </topic>
+  <topic id='6' alpha='0.08585901084239017' totalTokens='20865'>
+	<word rank='1' count='1201.0'>call</word>
+	<word rank='2' count='669.0'>observ</word>
+	<word rank='3' count='491.0'>return</word>
+	<word rank='4' count='487.0'>rxjava</word>
+	<word rank='5' count='458.0'>thread</word>
+	<word rank='6' count='404.0'>method</word>
+	<word rank='7' count='400.0'>data</word>
+	<word rank='8' count='349.0'>coroutin</word>
+	<word rank='9' count='291.0'>function</word>
+	<word rank='10' count='267.0'>time</word>
+  </topic>
+  <topic id='7' alpha='0.10985887478929579' totalTokens='25555'>
+	<word rank='1' count='955.0'>view</word>
+	<word rank='2' count='926.0'>button</word>
+	<word rank='3' count='846.0'>layout</word>
+	<word rank='4' count='559.0'>set</word>
+	<word rank='5' count='544.0'>xml</word>
+	<word rank='6' count='541.0'>chang</word>
+	<word rank='7' count='477.0'>custom</word>
+	<word rank='8' count='466.0'>text</word>
+	<word rank='9' count='461.0'>click</word>
 	<word rank='10' count='369.0'>color</word>
   </topic>
-  <topic id='6' alpha='0.07643270239759171' totalTokens='14166'>
-	<word rank='1' count='741.0'>valu</word>
-	<word rank='2' count='693.0'>string</word>
-	<word rank='3' count='297.0'>text</word>
-	<word rank='4' count='282.0'>kotlin</word>
-	<word rank='5' count='264.0'>number</word>
-	<word rank='6' count='256.0'>code</word>
-	<word rank='7' count='226.0'>date</word>
-	<word rank='8' count='213.0'>time</word>
-	<word rank='9' count='211.0'>android</word>
-	<word rank='10' count='180.0'>chang</word>
+  <topic id='8' alpha='0.04669099082645103' totalTokens='11586'>
+	<word rank='1' count='754.0'>dagger</word>
+	<word rank='2' count='573.0'>inject</word>
+	<word rank='3' count='454.0'>viewmodel</word>
+	<word rank='4' count='427.0'>class</word>
+	<word rank='5' count='381.0'>modul</word>
+	<word rank='6' count='354.0'>compon</word>
+	<word rank='7' count='301.0'>provid</word>
+	<word rank='8' count='295.0'>activ</word>
+	<word rank='9' count='264.0'>bind</word>
+	<word rank='10' count='249.0'>depend</word>
   </topic>
-  <topic id='7' alpha='0.10578915720673514' totalTokens='24879'>
-	<word rank='1' count='2439.0'>activ</word>
-	<word rank='2' count='2430.0'>fragment</word>
-	<word rank='3' count='684.0'>button</word>
-	<word rank='4' count='608.0'>click</word>
-	<word rank='5' count='505.0'>navig</word>
-	<word rank='6' count='497.0'>app</word>
-	<word rank='7' count='436.0'>main</word>
-	<word rank='8' count='375.0'>call</word>
-	<word rank='9' count='351.0'>back</word>
-	<word rank='10' count='346.0'>mainact</word>
+  <topic id='9' alpha='0.029131147886062195' totalTokens='6988'>
+	<word rank='1' count='1543.0'>test</word>
+	<word rank='2' count='353.0'>run</word>
+	<word rank='3' count='293.0'>unit</word>
+	<word rank='4' count='268.0'>mock</word>
+	<word rank='5' count='236.0'>class</word>
+	<word rank='6' count='164.0'>method</word>
+	<word rank='7' count='138.0'>android</word>
+	<word rank='8' count='136.0'>mockito</word>
+	<word rank='9' count='134.0'>call</word>
+	<word rank='10' count='94.0'>espresso</word>
   </topic>
-  <topic id='8' alpha='0.011314227480288947' totalTokens='5187'>
-	<word rank='1' count='435.0'>java</word>
-	<word rank='2' count='395.0'>android</word>
-	<word rank='3' count='172.0'>firebas</word>
-	<word rank='4' count='145.0'>app</word>
-	<word rank='5' count='136.0'>activitythread</word>
-	<word rank='6' count='134.0'>googl</word>
-	<word rank='7' count='121.0'>lang</word>
-	<word rank='8' count='88.0'>view</word>
-	<word rank='9' count='80.0'>method</word>
-	<word rank='10' count='77.0'>handler</word>
+  <topic id='10' alpha='0.13145306821871153' totalTokens='38772'>
+	<word rank='1' count='2030.0'>android</word>
+	<word rank='2' count='1995.0'>kotlin</word>
+	<word rank='3' count='1807.0'>gradl</word>
+	<word rank='4' count='1721.0'>build</word>
+	<word rank='5' count='1687.0'>project</word>
+	<word rank='6' count='1361.0'>error</word>
+	<word rank='7' count='1095.0'>studio</word>
+	<word rank='8' count='952.0'>file</word>
+	<word rank='9' count='734.0'>version</word>
+	<word rank='10' count='625.0'>app</word>
   </topic>
-  <topic id='9' alpha='0.1460584971104346' totalTokens='40529'>
-	<word rank='1' count='2404.0'>android</word>
-	<word rank='2' count='2131.0'>kotlin</word>
-	<word rank='3' count='1748.0'>build</word>
-	<word rank='4' count='1717.0'>project</word>
-	<word rank='5' count='1681.0'>gradl</word>
-	<word rank='6' count='1388.0'>error</word>
-	<word rank='7' count='1265.0'>studio</word>
-	<word rank='8' count='990.0'>file</word>
-	<word rank='9' count='788.0'>version</word>
-	<word rank='10' count='752.0'>app</word>
+  <topic id='11' alpha='0.09559617902768187' totalTokens='22267'>
+	<word rank='1' count='2350.0'>fragment</word>
+	<word rank='2' count='2304.0'>activ</word>
+	<word rank='3' count='539.0'>app</word>
+	<word rank='4' count='505.0'>navig</word>
+	<word rank='5' count='429.0'>main</word>
+	<word rank='6' count='369.0'>call</word>
+	<word rank='7' count='362.0'>button</word>
+	<word rank='8' count='343.0'>click</word>
+	<word rank='9' count='333.0'>back</word>
+	<word rank='10' count='324.0'>mainact</word>
   </topic>
-  <topic id='10' alpha='0.24725447030885475' totalTokens='39032'>
-	<word rank='1' count='3999.0'>kotlin</word>
-	<word rank='2' count='2948.0'>code</word>
-	<word rank='3' count='2029.0'>error</word>
-	<word rank='4' count='1839.0'>android</word>
-	<word rank='5' count='1498.0'>java</word>
-	<word rank='6' count='1060.0'>work</word>
-	<word rank='7' count='699.0'>file</word>
-	<word rank='8' count='676.0'>convert</word>
-	<word rank='9' count='618.0'>app</word>
-	<word rank='10' count='594.0'>studio</word>
+  <topic id='12' alpha='0.05353233653719646' totalTokens='13422'>
+	<word rank='1' count='826.0'>databas</word>
+	<word rank='2' count='613.0'>room</word>
+	<word rank='3' count='606.0'>firebas</word>
+	<word rank='4' count='568.0'>data</word>
+	<word rank='5' count='484.0'>android</word>
+	<word rank='6' count='376.0'>queri</word>
+	<word rank='7' count='373.0'>java</word>
+	<word rank='8' count='285.0'>tabl</word>
+	<word rank='9' count='241.0'>realm</word>
+	<word rank='10' count='226.0'>insert</word>
   </topic>
-  <topic id='11' alpha='0.10710628020950895' totalTokens='27702'>
-	<word rank='1' count='1159.0'>app</word>
-	<word rank='2' count='754.0'>android</word>
-	<word rank='3' count='730.0'>file</word>
-	<word rank='4' count='646.0'>imag</word>
-	<word rank='5' count='587.0'>work</word>
-	<word rank='6' count='554.0'>devic</word>
-	<word rank='7' count='533.0'>code</word>
-	<word rank='8' count='370.0'>user</word>
-	<word rank='9' count='366.0'>servic</word>
-	<word rank='10' count='313.0'>notif</word>
+  <topic id='13' alpha='0.23408906059428206' totalTokens='36715'>
+	<word rank='1' count='4044.0'>kotlin</word>
+	<word rank='2' count='2786.0'>code</word>
+	<word rank='3' count='2135.0'>android</word>
+	<word rank='4' count='2042.0'>error</word>
+	<word rank='5' count='1553.0'>java</word>
+	<word rank='6' count='786.0'>work</word>
+	<word rank='7' count='734.0'>studio</word>
+	<word rank='8' count='612.0'>convert</word>
+	<word rank='9' count='572.0'>class</word>
+	<word rank='10' count='553.0'>app</word>
   </topic>
-  <topic id='12' alpha='0.08886511280937173' totalTokens='21731'>
-	<word rank='1' count='1137.0'>call</word>
-	<word rank='2' count='685.0'>observ</word>
-	<word rank='3' count='644.0'>request</word>
-	<word rank='4' count='604.0'>data</word>
-	<word rank='5' count='598.0'>return</word>
-	<word rank='6' count='558.0'>rxjava</word>
-	<word rank='7' count='510.0'>api</word>
-	<word rank='8' count='479.0'>retrofit</word>
-	<word rank='9' count='362.0'>method</word>
-	<word rank='10' count='313.0'>respons</word>
-  </topic>
-  <topic id='13' alpha='0.05143847463367334' totalTokens='13135'>
-	<word rank='1' count='1521.0'>test</word>
-	<word rank='2' count='715.0'>dagger</word>
-	<word rank='3' count='591.0'>class</word>
-	<word rank='4' count='573.0'>inject</word>
-	<word rank='5' count='376.0'>modul</word>
-	<word rank='6' count='312.0'>compon</word>
-	<word rank='7' count='296.0'>provid</word>
-	<word rank='8' count='290.0'>unit</word>
-	<word rank='9' count='278.0'>run</word>
-	<word rank='10' count='267.0'>mock</word>
-  </topic>
-  <topic id='14' alpha='0.07882980692642746' totalTokens='18692'>
-	<word rank='1' count='1217.0'>item</word>
-	<word rank='2' count='1012.0'>view</word>
-	<word rank='3' count='973.0'>recyclerview</word>
-	<word rank='4' count='867.0'>adapt</word>
-	<word rank='5' count='646.0'>list</word>
-	<word rank='6' count='516.0'>data</word>
-	<word rank='7' count='407.0'>bind</word>
-	<word rank='8' count='375.0'>click</word>
-	<word rank='9' count='357.0'>layout</word>
-	<word rank='10' count='285.0'>select</word>
+  <topic id='14' alpha='0.3618897909146372' totalTokens='60519'>
+	<word rank='1' count='1308.0'>android</word>
+	<word rank='2' count='1201.0'>wai</word>
+	<word rank='3' count='1048.0'>kotlin</word>
+	<word rank='4' count='1007.0'>code</word>
+	<word rank='5' count='927.0'>work</word>
+	<word rank='6' count='807.0'>question</word>
+	<word rank='7' count='648.0'>make</word>
+	<word rank='8' count='630.0'>someth</word>
+	<word rank='9' count='627.0'>exampl</word>
+	<word rank='10' count='587.0'>app</word>
   </topic>
 </topicModel>

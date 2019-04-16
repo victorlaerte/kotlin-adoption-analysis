@@ -12,7 +12,7 @@ fun main() {
 	removeStopWordsAndOneLetterWords()
 	stem()
 	nameAndLabel()
-	getQuestionSample()
+//	getQuestionSample()
 }
 
 fun getReadFile(fileName: String): File = File(fileName)
@@ -63,7 +63,7 @@ fun removePunctuation() {
 	if (readFile.exists()) {
 		val lines = Files.lines(Paths.get(readFile.toURI()))
 		val newFile = getOrCreateWriteFile("kotlin-posts-4.csv")
-		val regex = Regex("\\p{P}")
+		val regex = Regex("[\\p{P}&&[^\u0027]]")
 		lines.forEach {
 			val text = it.replace(regex, " ")
 			newFile.appendText("$text\n")
@@ -77,29 +77,30 @@ fun removeStopWordsAndOneLetterWords() {
 	if (readFile.exists()) {
 		val lines = Files.lines(Paths.get(readFile.toURI()))
 		val newFile = getOrCreateWriteFile("kotlin-posts-5.csv")
+
 		val stopWords = listOf("a", "about", "above", "after", "again",
-			"against", "all", "am", "an", "and", "any", "are", "aren't", "as",
+			"against", "all", "am", "an", "and", "any", "are", "aren't", "aren`t", "arent", "as",
 			"at", "be", "because", "been", "before", "being", "below",
-			"between", "both", "but", "by", "can't", "cannot", "could",
-			"couldn't", "did", "didn't", "do", "does", "doesn't", "doing",
-			"don't", "down", "during", "each", "few", "for", "from", "further",
-			"had", "hadn't", "has", "hasn't", "have", "haven't", "having", "he",
-			"he'd", "he'll", "he's", "her", "here", "here's", "hers", "herself",
-			"him", "himself", "his", "how", "how's", "i", "i'd", "i'll", "i'm",
-			"i've", "if", "in", "into", "is", "isn't", "it", "it's", "its",
-			"itself", "let's", "me", "more", "most", "mustn't", "my", "myself",
+			"between", "both", "but", "by", "can't", "can`t", "cant", "cannot", "could",
+			"couldn't", "couldn`t", "couldnt", "did", "didn't", "didn`t", "didnt", "do", "does", "doesn't", "doesn`t", "doesnt", "doing",
+			"don't", "don`t", "dont", "down", "during", "each", "few", "for", "from", "further",
+			"had", "hadn't", "hadn`t", "hadnt", "has", "hasn't", "hasn`t", "hasnt", "have", "haven't", "haven`t", "havent","having", "he",
+			"he'd", "he`d", "he'll", "he`ll", "he's", "he`s", "hes", "her", "here", "here's", "here`s", "hers", "herself",
+			"him", "himself", "his", "how", "how's", "how`s", "hows","i", "i'd", "i`d", "id", "i'll", "i`ll", "ill", "i'm", "i`m", "im",
+			"i've", "i`ve", "ive", "if", "in", "into", "is", "isn't", "isn`t", "isnt", "it", "it's", "it`s", "its",
+			"itself", "let's", "let`s", "lets", "me", "more", "most", "mustn't", "mustn`t", "my", "myself",
 			"no", "nor", "not", "of", "off", "on", "once", "only", "or",
 			"other", "ought", "our", "ours	ourselves", "out", "over", "own",
-			"same", "shan't", "she", "she'd", "she'll", "she's", "should",
-			"shouldn't", "so", "some", "such", "than", "that", "that's", "the",
-			"their", "theirs", "them", "themselves", "then", "there", "there's",
-			"these", "they", "they'd", "they'll", "they're", "they've", "this",
+			"same", "shan't", "shan`t", "she", "she'd", "she`d", "she'll", "she`ll", "she's", "she`s", "shes", "should",
+			"shouldn't", "shouldn`t", "shouldnt", "so", "some", "such", "than", "that", "that's", "that`s", "thats", "the",
+			"their", "theirs", "them", "themselves", "then", "there", "there's", "there`s", "theres",
+			"these", "they", "they'd", "they`d", "they'll", "they`ll", "they're", "they`re", "they've", "they`ve", "this",
 			"those", "through", "to", "too", "under", "until", "up", "us",
-			"very", "was", "wasn't", "we", "we'd", "we'll", "we're", "we've",
-			"were", "weren't", "what", "what's", "when", "when's", "where",
-			"where's", "which", "while", "who", "who's", "whom", "why", "why's",
-			"with", "won't", "would", "wouldn't", "you", "you'd", "you'll",
-			"you're", "you've", "your", "yours", "yourself", "yourselves")
+			"very", "was", "wasn't", "wasn`t", "wasnt", "we", "we'd", "we`d", "we'll", "we`ll", "we're", "we`re", "we've", "we`ve",
+			"were", "weren't", "weren`t", "what", "what's", "what`s", "whats", "when", "when's", "when`s", "where",
+			"where's", "where`s", "wheres", "which", "while", "who", "who's", "who`s", "whos", "whom", "why", "why's", "why`s",
+			"with", "won't", "won`t", "wont", "would", "wouldn't", "wouldn`t", "wouldnt", "you", "you'd", "you`d", "you'll", "you`ll",
+			"you're", "you`re", "you've", "you`ve", "your", "yours", "yourself", "yourselves")
 
 		lines.forEach { line ->
 			val text = line.toLowerCase()
@@ -107,7 +108,7 @@ fun removeStopWordsAndOneLetterWords() {
 			val newLine = StringBuffer()
 
 			words.forEach { word ->
-				if (!stopWords.contains(word) && word.length > 1) {
+				if (word.length > 1 && !stopWords.contains(word)) {
 					newLine.append(word)
 					newLine.append(" ")
 				}
