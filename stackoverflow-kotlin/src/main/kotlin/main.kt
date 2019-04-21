@@ -157,9 +157,8 @@ fun getQuestionSample() {
 		for (i in 0 until 15) {
 			val topicFile = getReadFile("t$i.txt")
 
-			val newFile = getOrCreateWriteFile("t$i-final.txt")
-
 			if (topicFile.exists()) {
+				val newFile = getOrCreateWriteFile("t$i-final.txt")
 				val lines = Files.lines(Paths.get(topicFile.toURI()))
 
 				lines.forEach { line ->
